@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarrottieCoder
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python and HTML&CSS&JS
+- 👀 I’m interested in web development
+- 🌱 I code mostly in Django
 
 
 <!---
